@@ -38,8 +38,8 @@ function initial() {
         });
 
 	Customer.create({
-	   firstname: "Mary",
-	   lastname: "Taylor",
-	   age: 37
+	   firstname: "Peter",
+	   lastname: "Smith",
+	   age: 32
         });
 }
